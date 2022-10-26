@@ -1,0 +1,44 @@
+[
+    {
+        "_id":"101",
+        "category_id":"01",
+        "title":"Html for make website",
+        "image_url":"https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png",
+        "details":"html stands for hyper text markup language.html is the standard markup language for creating Web pages.HTML describes the structure of a Web page.HTML consists of a series of elements.HTML elements tell the browser how to display the content.HTML elements label pieces of content such as this is a heading, this is a paragraph, this is a link, etc."
+    },
+    {
+        "_id":"102",
+        "category_id":"02",
+        "title":"Css for make website",
+        "image_url":"https://cdn-icons-png.flaticon.com/512/919/919826.png",
+        "details":"CSS stands for Cascading Style Sheets.CSS describes how HTML elements are to be displayed on screen, paper, or in other media.CSS saves a lot of work. It can control the layout of multiple web pages all at once.External stylesheets are stored in CSS files.CSS is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes."
+    },
+    {
+        "_id":"101",
+        "category_id":"01",
+        "title":"Html for make website",
+        "image_url":"https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png",
+        "details":"html stands for hyper text markup language.html is the standard markup language for creating Web pages.HTML describes the structure of a Web page.HTML consists of a series of elements.HTML elements tell the browser how to display the content.HTML elements label pieces of content such as this is a heading, this is a paragraph, this is a link, etc."
+    },
+    {
+        "_id":"101",
+        "category_id":"01",
+        "title":"Html for make website",
+        "image_url":"https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png",
+        "details":"html stands for hyper text markup language.html is the standard markup language for creating Web pages.HTML describes the structure of a Web page.HTML consists of a series of elements.HTML elements tell the browser how to display the content.HTML elements label pieces of content such as this is a heading, this is a paragraph, this is a link, etc."
+    },
+    {
+        "_id":"101",
+        "category_id":"01",
+        "title":"Html for make website",
+        "image_url":"https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png",
+        "details":"html stands for hyper text markup language.html is the standard markup language for creating Web pages.HTML describes the structure of a Web page.HTML consists of a series of elements.HTML elements tell the browser how to display the content.HTML elements label pieces of content such as this is a heading, this is a paragraph, this is a link, etc."
+    },
+    {
+        "_id":"101",
+        "category_id":"01",
+        "title":"Html for make website",
+        "image_url":"https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png",
+        "details":"html stands for hyper text markup language.html is the standard markup language for creating Web pages.HTML describes the structure of a Web page.HTML consists of a series of elements.HTML elements tell the browser how to display the content.HTML elements label pieces of content such as this is a heading, this is a paragraph, this is a link, etc."
+    }
+]
